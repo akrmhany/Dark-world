@@ -5,21 +5,25 @@
 ## النطاق
 الموقع يركّز على:
 - طبيعة العالم
-- البيئة والتضاريس
+- البيئة والتقسيم الإقليمي
 - الفصائل
 - الكائنات
 - السحر
 - التكنولوجيا
+- الموارد
+- العناصر الأساسية
 - الخط الزمني
 
 ## البناء الحالي
 - `index.html` صفحة رئيسية كمَدخل للموسوعة
-- `pages/world.html` طبيعة العالم وبنيته
-- `pages/environment.html` البيئة والمناخ والتضاريس
-- `pages/factions.html` الفصائل
+- `pages/world.html` طبيعة العالم وبنيته ومهمته الكونية
+- `pages/environment.html` البيئة والتقسيم الإقليمي
+- `pages/factions.html` الفصائل ووظائفها
 - `pages/creatures.html` الكائنات
-- `pages/magic.html` السحر
-- `pages/technology.html` التكنولوجيا
+- `pages/magic.html` السحر وأنظمته
+- `pages/technology.html` التكنولوجيا الهجينة
+- `pages/resources.html` الموارد الأساسية
+- `pages/elements.html` العناصر الأساسية
 - `pages/timeline.html` الخط الزمني
 - `styles.css` التصميم العام
 - `script.js` تنقل القائمة وحساب السنة
